@@ -1,0 +1,10 @@
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+c:\users\rottenspruce\documents\visual studio 2013\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
